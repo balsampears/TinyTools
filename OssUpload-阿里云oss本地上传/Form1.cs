@@ -1,6 +1,5 @@
 ﻿using Aliyun.Acs.Core;
 using Aliyun.Acs.Core.Exceptions;
-using Aliyun.Acs.vod.Model.V20170321;
 using Aliyun.OSS;
 using OssUpload.src;
 using System;

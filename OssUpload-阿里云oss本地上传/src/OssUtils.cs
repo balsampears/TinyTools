@@ -2,7 +2,6 @@
 using Aliyun.Acs.Core.Auth.Sts;
 using Aliyun.Acs.Core.Exceptions;
 using Aliyun.Acs.Core.Profile;
-using Aliyun.Acs.vod.Model.V20170321;
 using Aliyun.OSS;
 using System;
 using System.IO;
