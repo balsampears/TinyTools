@@ -1,12 +1,19 @@
 # TinyTools
 桌面应用小工具
 
-## OssUpload
+## 1.OssUpload
 阿里云oss本地上传  
 用于阿里云本地文件上传的小工具
+- 开发语言：C#
+- 开发工具：Visual Studio 2019
+- 框架：winform
 
-## WechatOfficialAccountUtils
+## 2.WechatOfficialAccountUtils
 微信公众号辅助  
+### 开发环境
+- 开发语言：C#
+- 开发工具：Visual Studio 2019
+- 框架：winform
 ### v1.0
 - 添加菜单管理（创建、删除、查询自定义菜单）  
 - 添加素材管理
@@ -17,6 +24,15 @@
 - 优化添加消息栏小垃圾桶
 - 优化添加小问号（微信文档跳转）
 
-## ExcelHandle
+
+## 3.ExcelHandle
 考勤文件合并(定制)  
 用于合动力、钉钉导出考勤文件的合并的小工具
+- 开发语言：C#
+- 开发工具：Visual Studio 2019
+- 框架：winform
+
+## 4.GameAssistant
+手游辅助，通过截屏图片判断当前状态，控制上下场景切换
+- 开发语言：Python
+- 开发工具：Idea
